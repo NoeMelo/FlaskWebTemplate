@@ -6,4 +6,4 @@
  * Bootstrap v5.0
  * HTML5
  
- ![Inteface](https://raw.githubusercontent.com/NoeMelo/FlaskWebTemplate/main/Deployment%20NLP%20Model%20with%20Flask%20-%20Template/static/images/interface.png)
+ ![Inteface](https://github.com/NoeMelo/FlaskWebTemplate/blob/main/static/images/interface.png)
