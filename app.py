@@ -14,7 +14,8 @@ def index():
         result = predict(comments)
     else:
         result = ""
-    return render_template('index.html',result=result)
+        comments = ""
+    return render_template('index.html',result=result, comments=comments)
 
 if __name__ == "__main__":
     app.run(debug=True)
